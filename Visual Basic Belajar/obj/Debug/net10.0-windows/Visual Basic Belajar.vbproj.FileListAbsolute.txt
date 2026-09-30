@@ -1,0 +1,17 @@
+C:\Users\Will\source\repos\Visual Basic Belajar\Visual Basic Belajar\obj\Debug\net10.0-windows\Visual_Basic_Belajar.Form1.resources
+C:\Users\Will\source\repos\Visual Basic Belajar\Visual Basic Belajar\obj\Debug\net10.0-windows\Visual Basic Belajar.vbproj.GenerateResource.cache
+C:\Users\Will\source\repos\Visual Basic Belajar\Visual Basic Belajar\obj\Debug\net10.0-windows\Visual Basic Belajar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will\source\repos\Visual Basic Belajar\Visual Basic Belajar\obj\Debug\net10.0-windows\Visual Basic Belajar.AssemblyInfoInputs.cache
+C:\Users\Will\source\repos\Visual Basic Belajar\Visual Basic Belajar\obj\Debug\net10.0-windows\Visual Basic Belajar.AssemblyInfo.vb
+C:\Users\Will\source\repos\Visual Basic Belajar\Visual Basic Belajar\obj\Debug\net10.0-windows\Visual Basic Belajar.vbproj.CoreCompileInputs.cache
+C:\Users\Will\source\repos\Visual Basic Belajar\Visual Basic Belajar\bin\Debug\net10.0-windows\Visual Basic Belajar.exe
+C:\Users\Will\source\repos\Visual Basic Belajar\Visual Basic Belajar\bin\Debug\net10.0-windows\Visual Basic Belajar.deps.json
+C:\Users\Will\source\repos\Visual Basic Belajar\Visual Basic Belajar\bin\Debug\net10.0-windows\Visual Basic Belajar.runtimeconfig.json
+C:\Users\Will\source\repos\Visual Basic Belajar\Visual Basic Belajar\bin\Debug\net10.0-windows\Visual Basic Belajar.dll
+C:\Users\Will\source\repos\Visual Basic Belajar\Visual Basic Belajar\bin\Debug\net10.0-windows\Visual Basic Belajar.pdb
+C:\Users\Will\source\repos\Visual Basic Belajar\Visual Basic Belajar\obj\Debug\net10.0-windows\Visual Basic Belajar.dll
+C:\Users\Will\source\repos\Visual Basic Belajar\Visual Basic Belajar\obj\Debug\net10.0-windows\refint\Visual Basic Belajar.dll
+C:\Users\Will\source\repos\Visual Basic Belajar\Visual Basic Belajar\obj\Debug\net10.0-windows\Visual Basic Belajar.pdb
+C:\Users\Will\source\repos\Visual Basic Belajar\Visual Basic Belajar\obj\Debug\net10.0-windows\Visual Basic Belajar.genruntimeconfig.cache
+C:\Users\Will\source\repos\Visual Basic Belajar\Visual Basic Belajar\obj\Debug\net10.0-windows\ref\Visual Basic Belajar.dll
+C:\Users\Will\source\repos\Visual Basic Belajar\Visual Basic Belajar\obj\Debug\net10.0-windows\Visual B.B19D7497.Up2Date

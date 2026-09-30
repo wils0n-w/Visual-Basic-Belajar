@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Visual Basic Belajar/1.0.0": {
+        "runtime": {
+          "Visual Basic Belajar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Visual Basic Belajar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
